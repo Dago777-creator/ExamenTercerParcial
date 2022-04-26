@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor", "Examen3_DagobertoVelasquez\Blazor.csproj", "{C98127CE-D54E-40D1-81DB-C0A72530D369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{AB6118F6-3D7B-43BA-BB66-75295664A79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{439B2498-C444-42EE-8840-9168014ABB62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C98127CE-D54E-40D1-81DB-C0A72530D369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98127CE-D54E-40D1-81DB-C0A72530D369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98127CE-D54E-40D1-81DB-C0A72530D369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98127CE-D54E-40D1-81DB-C0A72530D369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6118F6-3D7B-43BA-BB66-75295664A79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6118F6-3D7B-43BA-BB66-75295664A79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6118F6-3D7B-43BA-BB66-75295664A79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6118F6-3D7B-43BA-BB66-75295664A79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439B2498-C444-42EE-8840-9168014ABB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439B2498-C444-42EE-8840-9168014ABB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439B2498-C444-42EE-8840-9168014ABB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439B2498-C444-42EE-8840-9168014ABB62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6818D63-6CCE-4033-AF2F-2346ACF92AE6}
+	EndGlobalSection
+EndGlobal

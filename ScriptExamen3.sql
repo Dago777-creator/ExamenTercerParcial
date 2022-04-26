@@ -1,0 +1,14 @@
+CREATE DATABASE Examen3
+
+CREATE SCHEMA IF NOT EXISTS `Examen3` DEFAULT CHARACTER SET utf8 ;
+USE `Examen3`;
+
+CREATE TABLE IF NOT EXISTS `Examen3`.`usuario` (
+  `CodigoUsuario` VARCHAR(15) NOT NULL,
+  `Nombre` VARCHAR(45) NOT NULL,
+  `Rol` VARCHAR(15) NULL,
+  `Clave` VARCHAR(45) NULL,
+  PRIMARY KEY (`CodigoUsuario`))
+ENGINE = InnoDB;usuario
+
+
